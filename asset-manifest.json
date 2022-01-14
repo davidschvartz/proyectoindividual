@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/davidschvartz/proyectoindividual/static/css/main.13083bbf.css",
-    "main.js": "/davidschvartz/proyectoindividual/static/js/main.7aae3d01.js",
-    "static/js/787.3ff7731a.chunk.js": "/davidschvartz/proyectoindividual/static/js/787.3ff7731a.chunk.js",
-    "static/media/bahiagrande-tenis264.jpg": "/davidschvartz/proyectoindividual/static/media/bahiagrande-tenis264.dc98363d1375b23d1c4b.jpg",
-    "static/media/voleibol-og.jpg": "/davidschvartz/proyectoindividual/static/media/voleibol-og.3a6fbb54bbbe6406e06d.jpg",
-    "static/media/map.jpg": "/davidschvartz/proyectoindividual/static/media/map.e9ca3d17493a1578eb93.jpg",
-    "static/media/redes.jpg": "/davidschvartz/proyectoindividual/static/media/redes.c0978974f66a49da0ea3.jpg",
-    "static/media/deportes.jpg": "/davidschvartz/proyectoindividual/static/media/deportes.e54bf782035691b1a50d.jpg",
-    "static/media/canchas-de-futbol1.jpg": "/davidschvartz/proyectoindividual/static/media/canchas-de-futbol1.c7b2ffdc6b6ba2c29a14.jpg",
-    "static/media/logo.svg": "/davidschvartz/proyectoindividual/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/davidschvartz/proyectoindividual/index.html",
-    "main.13083bbf.css.map": "/davidschvartz/proyectoindividual/static/css/main.13083bbf.css.map",
-    "main.7aae3d01.js.map": "/davidschvartz/proyectoindividual/static/js/main.7aae3d01.js.map",
-    "787.3ff7731a.chunk.js.map": "/davidschvartz/proyectoindividual/static/js/787.3ff7731a.chunk.js.map"
+    "main.css": "/proyecto1/static/css/main.13083bbf.css",
+    "main.js": "/proyecto1/static/js/main.cc0121aa.js",
+    "static/js/787.3ff7731a.chunk.js": "/proyecto1/static/js/787.3ff7731a.chunk.js",
+    "static/media/bahiagrande-tenis264.jpg": "/proyecto1/static/media/bahiagrande-tenis264.dc98363d1375b23d1c4b.jpg",
+    "static/media/voleibol-og.jpg": "/proyecto1/static/media/voleibol-og.3a6fbb54bbbe6406e06d.jpg",
+    "static/media/map.jpg": "/proyecto1/static/media/map.e9ca3d17493a1578eb93.jpg",
+    "static/media/redes.jpg": "/proyecto1/static/media/redes.c0978974f66a49da0ea3.jpg",
+    "static/media/deportes.jpg": "/proyecto1/static/media/deportes.e54bf782035691b1a50d.jpg",
+    "static/media/canchas-de-futbol1.jpg": "/proyecto1/static/media/canchas-de-futbol1.c7b2ffdc6b6ba2c29a14.jpg",
+    "static/media/logo.svg": "/proyecto1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyecto1/index.html",
+    "main.13083bbf.css.map": "/proyecto1/static/css/main.13083bbf.css.map",
+    "main.cc0121aa.js.map": "/proyecto1/static/js/main.cc0121aa.js.map",
+    "787.3ff7731a.chunk.js.map": "/proyecto1/static/js/787.3ff7731a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13083bbf.css",
-    "static/js/main.7aae3d01.js"
+    "static/js/main.cc0121aa.js"
   ]
 }
